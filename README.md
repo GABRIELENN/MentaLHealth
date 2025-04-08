@@ -2,7 +2,7 @@
 
 ![image](mental_health.png)
 
-This repository contains a data analysis project focusing on the mental health of students, with a special emphasis on international students. Leveraging SQL queries, the project explores a dataset comprising 286 student records, revealing trends in depression, stress, and factors influencing mental well-being over a 10-year period.
+This repository contains a data analysis project focusing on students' mental health, with a special emphasis on international students. Leveraging SQL queries, the project explores a dataset comprising 286 student records, revealing trends in depression, stress, and factors influencing mental well-being over a 10-year period.
 
 **Key Findings**
 
