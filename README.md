@@ -7,7 +7,7 @@ This repository contains a data analysis project focusing on students' mental he
 **Key Findings**
 
    #Depression Trends: 
-        Identified a higher risk of depression in the first year, gradually decreasing over the subsequent 10 years.
+        Identified a higher risk of depression in the first year, which gradually decreased over the subsequent 10 years.
 
    #Stress Predictors: 
         Explored the impact of acculturative stress and social connectedness on depression.
